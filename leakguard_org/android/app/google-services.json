@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794047226563",
+    "project_id": "leakguardorg",
+    "storage_bucket": "leakguardorg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794047226563:android:77bf888a61650567453876",
+        "android_client_info": {
+          "package_name": "com.example.leakguard_org"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4lzEbxLTRDdUCU-1RwQdJ3c6U5gmm0C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
